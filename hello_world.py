@@ -1,7 +1,4 @@
-print("Hello world!")
-print("Not another hello world")
-print("No")
-print("More")
-print("Hello")
-print("World")
-print("Please, I'm begging you")
+
+print("Hello world from my repo")
+print("Hello world from course repo")
+
